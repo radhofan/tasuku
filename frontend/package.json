@@ -1,0 +1,31 @@
+{
+  "name": "tasuku-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codecademy/gamut": "^72.2.2",
+    "@codecademy/gamut-icons": "^9.57.9",
+    "@codecademy/gamut-styles": "^20.0.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@tanstack/react-query": "^5.101.2",
+    "next": "14.2.22",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.22",
+    "sass": "^1.101.0",
+    "typescript": "^5"
+  }
+}
